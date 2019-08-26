@@ -1,9 +1,0 @@
-*.doc
-*.docx
-*.iml
-*.class
-.idea/
-.gradle/
-build
-out/
-PreproductionProjectKoshevyi/target/
